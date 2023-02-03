@@ -1,5 +1,4 @@
 import csv
-import re
 
 terminal_lines = []
 dirs = {}
